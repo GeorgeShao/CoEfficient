@@ -18,5 +18,8 @@ We built our app in Python. We used the Google Maps API to compute the distances
 ## Challenges we ran into
 Not every member of the had experience dealing with app development and even the python language. Half our team was experienced with 7+ hackathons and for the other half of the team, this was their first hackathon - leading to an interesting team dynamic. The team worked together to overcome any major hurdles to keep the work going. While we did spend some time debugging various errors the largest hurdle by far was working with Qiskit, and getting the quantum computer code to compile and run on the IBM-Q quantum cloud computer.
 
+## Accomplishments we are proud of
+Our team is very proud of learning about and using IBM-Q's quantum cloud computer along with our efficient node relative distance and latitude and longitude matching algorithms.
+
 ## What's next for CoEfficient
 The current version of the app can be refined by taking traffic and speed limits into account when calculating the most efficient route. In the future, this project could be modified to suit air and water travel for airplanes and shipping companies.
